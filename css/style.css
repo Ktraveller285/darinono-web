@@ -24,6 +24,11 @@ body {
   padding: 0 10px;
 }
 
+a {
+  color: #a9cce3;
+  text-decoration: none;
+}
+
 /* Header styles */
 header {
   display: flex;
